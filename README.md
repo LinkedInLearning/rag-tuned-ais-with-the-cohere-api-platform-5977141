@@ -1,9 +1,9 @@
-# Programming with the Gemini Flash API
-This is the repository for the LinkedIn Learning course `cProgramming with the Gemini Flash API`. The full course is available from [LinkedIn Learning][lil-course-url].
+# RAG Tuned AIs with the Cohere API Platform
+This is the repository for the LinkedIn Learning course `RAG Tuned AIs with the Cohere API Platform`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![course-name-alt-text][lil-thumbnail-url] 
 
-Learn to harness the power of Google's new low latency, high-performance, and affordable Gemini Flash API in your AI projects. This course will guide you through understanding the unique features of Gemini Flash and how it compares to other models. We’ll explore the capabilities of the model through Google AI Studio, including its turbocharged performance at a fraction of the cost of other models as well as its extremely large context window and ability to handle different types of media. Finally, we’ll use the AI studio to generate code that we can use in your own applications.
+Explore the Cohere API platform and its powerful tools for fine-tuning AI models with Retrieval-Augmented Generation (RAG) techniques. Starting with an overview of Cohere’s unique cloud-agnostic approach with their own fast release models focused on business needs. Learn to build and optimize AI models that are deployable across many cloud environments. Explore Cohere Developer tools and experiment with model customization and discover tools for building AI-driven applications.
 
 ### Instructor
 
@@ -19,6 +19,6 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4D0DAQEAH6lVQicxvA/learning-public-crop_675_1200/0/1717191059747?e=2147483647&v=beta&t=LUA3RJl1UDogd6q9hAIDqljx5aLMLaCVj9qoE2lKOF0
+[lil-course-url]: https://www.linkedin.com/learning/rag-tuned-ais-with-the-cohere-api-platform
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQGry-eLw9GlFA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726249115530?e=2147483647&v=beta&t=SA6SsubTxRfHTUmZ1KmufiUKnsc_MlTCBZKz6fc10-o
 
